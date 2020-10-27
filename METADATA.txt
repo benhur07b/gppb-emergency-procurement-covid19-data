@@ -1,0 +1,5 @@
+"Name", "GPPB Emergency Procurement for COVID 19 under the Bayanihan to Heal as One Act."
+"Source", "https://gppbgovph.com/"
+"License", "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)"
+"Last update", "2020-10-27"
+"Contact", "https://bnhr.xyz"
